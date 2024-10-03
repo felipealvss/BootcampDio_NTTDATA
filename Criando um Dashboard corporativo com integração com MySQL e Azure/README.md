@@ -39,7 +39,7 @@ O painel Power BI foi criado para visualizar e analisar os dados gerados. Medida
 ![Painel Total](docs/DesafioDashCorporativo.png)
 
 **Painel com Filtro Aberto:**
-![Painel com Filtro Aberto](docs/DesafioDashCorporativo_DesafioDashCorporativo_FiltroAberto.png)
+![Painel com Filtro Aberto](docs/DesafioDashCorporativo_FiltroAberto.png)
 
 ## Contribuições
 
