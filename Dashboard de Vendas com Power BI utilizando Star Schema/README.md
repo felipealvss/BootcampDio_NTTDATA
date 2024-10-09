@@ -8,7 +8,7 @@ O diagrama do banco de dados pode ser visualizado em: [dbdiagram.io](https://dbd
 
 ## Funcionalidades
 
-- Modelagem de entidades relacionadas a professores, alunos e cursos.
+- Modelagem de entidades relacionadas a professores, disciplinas, cursos, etc.
 - Estruturas que permitem a inserção e gerenciamento de informações educacionais.
 
 ## Tecnologias Utilizadas
